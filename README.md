@@ -1,2 +1,2 @@
 # dark_mode
-https://moonlit-bonbon-6caf73.netlify.app/
+https://dark-mode-johann.netlify.app/
